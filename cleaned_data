@@ -1,0 +1,424 @@
+company_name,model_name,processor_name,ram,processor_generation,operating_system,storage,rating,price,screen_size(inch)
+Lenovo,Lenovo IdeaPad 3 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.2,"₹36,990", 14 
+Lenovo,Lenovo IdeaPad 3 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹39,990", 15.6 
+ASUS,ASUS VivoBook 15 (2022) Core i3,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹32,990", 15.6 
+HP,HP Pavilion Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹49,990", 15.6 
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,Windows 11 ,512 GB SSD39.62 ,4.4,"₹49,990", 15.6 
+HP,HP 14s Intel Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.2,"₹36,990", 14 
+DELL,DELL Inspiron Core i3 11th Gen,, 2 Cores,," & Storage: 8GB DDR4 & 1TB + 256GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG Narrow BorderPorts: 2x USB 3.2 Gen1 ,1x USB 2.0, HDMI 1.4, SD Card reader, Audio jack, 1 M.2 2230/2280 slot for solid-state drive/Intel OptaneIntel Core i3 ", & Storage: 8GB DDR4 & 1TB + 256GB SSDGraphics & Keyboard: Integrated & Standard Keyboard,4.3,"₹38,990", & Storage: 8GB DDR4 & 1TB + 256GB SSDGraphics & Keyboard: Integrated & Standard Keyboard
+RedmiBook,RedmiBook Pro Core i5 11th Gen,Intel Core i5 ,8 GB DDR4 ,11th Gen,Windows 11 ,512 GB SSD39.62 ,4.1,"₹39,990", 15.6 
+realme,realme Book (Slim) Core i3 11th,"Stylish & Portable Thin and Light Laptop14 inch 2K QHD, IPS LCD Display ( 400nits peak brightness, 100% sRGB, 3:2 aspect ratio, Full Vision Display)Finger Print Sensor for Faster System AccessLight Laptop without Optical Disk DriveIntel Core i3 ",8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD35.56 ,4.4,"₹46,990", 14 
+ASUS,ASUS VivoBook 14 (2022) Ryzen 7,AMD Ryzen 7 Quad Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.1,"₹44,990", 14 
+HP,HP Pavilion Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹59,990", 15.6 
+Lenovo,Lenovo IdeaPad 1 Ryzen 5 Quad,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹38,705", 15.6  
+ASUS,ASUS Core i3 11th Gen -,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.3,"₹32,990", 15.6 
+ASUS,ASUS TUF Gaming A17 with 90Whr,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD43.94 ,4.4,"₹52,990", 17.3  
+acer,acer Extensa Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.3,"₹29,990", 15.6  
+ASUS,ASUS ROG Strix G15 (2022) with,AMD Ryzen 9 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD39.62 ,4.0,"₹1,96,990", 15.6 
+ASUS,ASUS VivoBook 15 (2022) Core i5,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.3,"₹47,990", 15.6 
+ASUS,ASUS Vivobook 15 Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹45,990", 15.6  
+MSI,MSI Bravo 15 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹47,990", 15.6 
+ASUS,ASUS ROG Strix G15 Ryzen 7,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,Windows 11 ,1 TB SSD39.62 ,4.6,"₹85,990", 15.6 
+APPLE,APPLE 2020 Macbook Air M1 -,Apple M1 ,8 GB DDR4 ,,Mac OS ,256 GB SSD33.78 ,4.7,"₹88,990", 13.3 
+HP,HP 14s Intel Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹40,990", 14 
+Lenovo,Lenovo Celeron Dual Core - (4,Intel Celeron Dual Core ,4 GB LPDDR4 ,,DOS ,256 GB HDD|256 GB SSD39.62 ,3.7,"₹19,490", 15.6 
+Lenovo,Lenovo IdeaPad 1 Ryzen 3 Dual,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹35,590", 15.6  
+HP,HP Victus Intel Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹65,990", 15.6  
+acer,acer Aspire 7 Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹58,990", 15.6 
+acer,acer Aspire 3 Ryzen 3 Dual,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD39.62 ,4.2,"₹24,990", 15.6  
+acer,acer Aspire 7 Ryzen 5 Hexa,Free upgrade to Windows 11 when availableAMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹47,990", 15.6 
+ASUS,ASUS TUF Gaming A17 with 90Whr,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD43.94 ,4.4,"₹73,990", 17.3  
+Lenovo,Lenovo IdeaPad 3 Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹53,490", 15.6  
+ASUS,ASUS ROG Strix G15 Advantage Edition,AMD Ryzen 9 Octa Core ,16 GB DDR4 ,,Windows 11 ,1 TB SSD39.62 ,4.9,"₹1,50,990", 15.6 
+Lenovo,Lenovo IdeaPad Gaming Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹51,990", 15.6  
+ASUS,ASUS Vivobook 14 (2022) Core i5,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.7,"₹66,990", 14  Touchscreen 
+ASUS,ASUS ROG Zephyrus G15 Ryzen 9,AMD Ryzen 9 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.0,"₹1,94,990", 15.6 
+acer,acer Aspire 7 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹51,990", 15.6  
+HP,HP Athlon Dual Core 3050U -,AMD Athlon Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,3.9,"₹25,990", 14 
+acer,acer Aspire Ryzen 5 Quad Core,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹35,990", 15.6 
+ASUS,ASUS VivoBook 15 (2021) Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹43,990", 15.6 
+Lenovo,Lenovo IdeaPad 3 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹44,990", 15.6 
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 5,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,3.7,"₹64,490", 15.6 
+ASUS,ASUS VivoBook K15 OLED (2022) Core,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.4,"₹40,990", 15.6 
+ASUS,ASUS VivoBook Ultra 14 (2022) Core,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.4,"₹38,990", 14 
+HP,HP 15s Intel Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹58,990", 15.6 
+realme,realme Book(Slim) Intel Evo Core i5,Powered by 11th Gen Intel Evo Core i5 ,Microsoft Office 2019 Home & Student IncludedStylish Thin and Light Laptop without Optical Disk DriveIntel Core i5 ,,Microsoft Office 2019 Home & Student IncludedStylish Thin and Light Laptop without Optical Disk DriveIntel Core i5 ,Microsoft Office 2019 Home & Student IncludedStylish Thin and Light Laptop without Optical Disk DriveIntel Core i5 ,4.4,"₹59,990",Microsoft Office 2019 Home & Student IncludedStylish Thin and Light Laptop without Optical Disk DriveIntel Core i5 
+acer,acer Aspire 7 Core i5 10th,Free upgrade to Windows 11 when availableIntel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹47,990", 15.6 
+HP,HP Ryzen 3 Quad Core 5300U,AMD Ryzen 3 Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹37,499", 15.6 
+ASUS,ASUS Vivobook Pro 14X OLED with,AMD Ryzen 9 Octa Core ,8 GB DDR4 ,,64 bit Windows 10 ,1 TB SSD35.56 ,4.1,"₹94,990", 14  
+ASUS,ASUS VivoBook 15 (2022) Core i3,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹32,990", 15.6 
+ASUS,ASUS VivoBook 14 (2021) Celeron Dual,Intel Celeron Dual Core ,4 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,4.0,"₹23,990", 14 
+HP,HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.3,"₹48,990", 14 
+APPLE,APPLE 2022 MacBook Pro M2 -,Apple M2 ,8 GB Unified Memory ,,Mac OS ,512 GB SSD33.78 ,4.7,"₹1,39,990", 13.3  
+ASUS,ASUS TUF Gaming A15 with 90Whr,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.6,"₹89,990", 15.6  
+ASUS,ASUS TUF Gaming A15 Ryzen 5,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.5,"₹59,990", 15.6 
+DELL,DELL Ryzen 5 Hexa Core AMD,, 16MB L3,," & Storage: 16GB DDR4 (2 DIMM Slots) & 512GB SSDGraphics: NVIDIA GEFORCE RTX 3050 (4GB GDDR6) TGP Up To 80WDisplay: 15.6"" FHD WVA AG 250 nits 120Hz Narrow Border, Backlit Keyboard OrangeColor: Phantom Grey with specklesPorts: (1) HDMI 2.1, (2) SuperSpeed USB 2.0 Gen 1 Type-A including (1) with PowerShare, (1) SuperSpeed USB 3.2, (1) USB-C Data/Display Port Alt-Mode, Headphone/Mic, (1) RJ45WiFi & BT: Killer Wi-Fi 6 AX1650 (2x2) and BluetoothAMD Ryzen 5 Hexa Core ", & Storage: 16GB DDR4 (2 DIMM Slots) & 512GB SSDGraphics: NVIDIA GEFORCE RTX 3050 (4GB GDDR6) TGP Up To 80W,4.6,"₹70,990", & Storage: 16GB DDR4 2 DIMM Slots & 512GB SSDGraphics: NVIDIA GEFORCE RTX 3050 4GB GDDR6 TGP Up To 80W
+Infinix,Infinix INBook X1 Neo Series Celeron,Intel Celeron Quad Core ,8 GB LPDDR4X ,,64 bit Windows 11 ,256 GB SSD35.56 ,4.2,"₹22,990", 14 
+HP,HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹46,990", 15.6 
+ASUS,ASUS VivoBook 15 (2022) Core i5,Intel Core i5 ,8 GB DDR4 ,11th Gen,Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.3,"₹50,990", 15.6 
+Infinix,Infinix X1 Slim Series Core i3,Intel Core i3 ,8 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.2,"₹28,990", 14 
+MSI,MSI Katana GF66 Core i7 11th,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.3,"₹84,990", 15.6 
+APPLE,APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro ,16 GB Unified Memory ,,Mac OS ,512 GB SSD36.07 ,4.8,"₹1,81,990", 14.2 
+MSI,MSI Delta 15 AMD Advantage Edition,AMD Ryzen 9 Octa Core ,16 GB DDR4 ,5th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.6,"₹1,09,990", 15.6 
+SAMSUNG,SAMSUNG Galaxy Book Go Snapdragon 7c,Qualcomm Snapdragon 7c Gen 2 ,4 GB LPDDR4X ,,Windows 11 ,35.56 ,4.4,"₹32,990", 14  
+Infinix,Infinix X1 Slim Series Core i5,Intel Core i5 ,16 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.1,"₹37,990", 14  
+APPLE,APPLE 2022 MacBook AIR M2 -,Apple M2 ,8 GB Unified Memory ,,Mac OS ,512 GB SSD34.54 ,5.0,"₹1,39,990", 13.6  
+Lenovo,Lenovo IdeaPad Core i3 10th Gen,Intel Core i3 ,4 GB DDR4 ,10th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.4,"₹29,990", 15.6 
+Lenovo,Lenovo IdeaPad 3 CB Celeron Dual,Intel Celeron Dual Core ,4 GB DDR4 ,,Chrome ,35.56 ,4.3,"₹19,490", 14  
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹73,490", 15.6 
+ASUS,ASUS VivoBook K15 OLED (2022) Ryzen,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.4,"₹52,990", 15.6 
+HP,HP Core i3 11th Gen -,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹41,890", 15.6  
+DELL,DELL Inspiron Pentium Silver - (8,,,," & Storage: 8GB DDR4 & 256GB SSDDisplay: 15.6"" HD AG Narrow BorderSoftware: Win 11 + Office H&S 20212x USB 3.2 Gen1 ,1x USB 2.0, HDMI 1.4, SD Card reader, Audio jack, 1 M.2 2230/2280 slot for solid-state drive/Intel OptaneWiFi & BT: 802.11ac 1x1 WiFi and BluetoothIntel Pentium Silver ", & Storage: 8GB DDR4 & 256GB SSD,4.2,"₹30,428", & Storage: 8GB DDR4 & 256GB SSD
+acer,acer Extensa Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹34,990", 15.6  
+APPLE,APPLE 2020 Macbook Air M1 -,Apple M1 ,8 GB DDR4 ,,Mac OS ,256 GB SSD33.78 ,4.7,"₹88,990", 13.3 
+MSI,MSI Core i7 11th Gen -,Intel Core i7 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹65,990", 15.6  
+ASUS,ASUS Vivobook 15 Core i3 10th,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹33,490", 15.6 
+HP,HP 14s Intel Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.1,"₹60,990", 14 
+ASUS,ASUS VivoBook K15 OLED Ryzen 7,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹59,990", 15.6  
+MSI,MSI Stealth 15M Core i7 11th,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.2,"₹1,14,990", 15.6 
+ASUS,ASUS ROG Zephyrus M16 Core i7,Intel Core i7 ,16 GB DDR4 ,11th Gen,Windows 10 ,1 TB SSD40.64 ,4.3,"₹1,19,990", 16 
+Infinix,Infinix INBook X2 Plus Core i5,Intel Core i5 ,8 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹42,990", 15.6  
+ASUS,ASUS Vivobook Pro 15 OLED Core,Intel Core i5 ,16 GB LPDDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.6,"₹89,990", 15.6  
+MSI,MSI Alpha 15 AMD Advantage Edition,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹79,990", 15.6 
+ASUS,ASUS Core i5 11th Gen -,Intel Core i5 ,8 GB DDR4 ,11th Gen,Windows 11 ,1 TB SSD39.62 ,4.8,"₹70,990", 15.6 
+Lenovo,Lenovo IdeaPad 3 Core i3 10th,Intel Core i3 ,8 GB DDR4 ,10th Gen,Windows 11 ,256 GB SSD39.62 ,4.2,"₹33,900", 15.6  
+Infinix,Infinix INBook X2 Plus Core i7,Intel Core i7 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.8,"₹52,990", 15.6  
+APPLE,APPLE MacBook Air M1 - (16,Apple M1 ,16 GB DDR4 ,,Mac OS ,512 GB SSD33.78 ,4.7,"₹1,24,990", 13.3 
+RedmiBook,RedmiBook Pro Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,Windows 11 ,256 GB SSD39.62 ,4.2,"₹31,990", 15.6 
+acer,acer Nitro 5 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,Windows 11 ,512 GB SSD39.62 ,4.3,"₹66,990", 15.6  
+DELL,DELL Ryzen 7 Octa Core AMD,"NVIDIA RTX 3050 Graphics upto 90W TGP15.6 inch Full HD AG Display (250 nits Brightness, 120Hz, Narrow Border)Alienware Command CenterAMD Ryzen 7 Octa Core ",16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,5.0,"₹89,081", 15.6 
+APPLE,APPLE MacBook Air M1 - (8,Apple M1 ,8 GB DDR4 ,,Mac OS ,512 GB SSD33.78 ,4.7,"₹1,04,990", 13.3 
+Lenovo,Lenovo IdeaPad 3 Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹53,490", 15.6 
+ASUS,ASUS VivoBook Flip 14 Core i3,Intel Core i3 ,8 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.5,"₹45,990", 14  Touchscreen 
+ASUS,ASUS VivoBook K15 OLED (2022) Core,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹45,990", 15.6 
+MSI,MSI GF63 Thin Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹51,990", 15.6 
+HP,HP Pavilion Gaming Ryzen 7 Octa,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹75,990", 15.6 
+Lenovo,Lenovo IdeaPad 3 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.2,"₹36,990", 15.6  
+HP,HP Pavilion Intel Core i5 11th,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,3.7,"₹78,800", 14 
+HP,HP Athlon Dual Core 3050U -,AMD Athlon Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹29,390", 15.6 
+Infinix,Infinix INBook X1 Core i3 10th,Intel Core i3 ,8 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.3,"₹30,990", 14 
+Lenovo,Lenovo IdeaPad 3 Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹62,490", 15.6  
+ASUS,ASUS Vivobook S14 OLED (2022) Intel,Intel Core i7 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,3.8,"₹89,990", 14  
+HP,HP 15s Intel Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹58,899", 15.6 
+MSI,MSI Sword 15 Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹85,990", 15.6  
+DELL,DELL Vostro Ryzen 3 Dual Core,,,," & Storage: 8GB DDR4 (2 DIMM Slots) & 1TB HDDSoftware: Win 11 + Office H&S 2021Display: 14.0"" FHD WVA AG Narrow BorderPorts: USB 3.2 Gen 1 (x2), USB2.0 (x1), HDMI 1.4, SD Media Card Reader (SD, SDHC, SDXC), RJ45 - 10/100MbpsWiFi & BT: 802.11ac 1x1 WiFi and BluetoothAMD Ryzen 3 Dual Core ", & Storage: 8GB DDR4 (2 DIMM Slots) & 1TB HDDSoftware: Win 11 + Office H&S 2021,3.8,"₹33,099", & Storage: 8GB DDR4 2 DIMM Slots & 1TB HDDSoftware: Win 11 + Office H&S 2021
+Lenovo,Lenovo Ideapad Gaming 3 Core i5,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.3,"₹63,490", 15.6 
+ASUS,ASUS VivoBook 14 (2022) Ryzen 5,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,32 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹38,990", 14 
+HP,HP Victus Core i5 11th Gen,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD40.89 ,4.3,"₹67,990", 16.1 
+HP,HP 15s Intel Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹39,790", 15.6 
+APPLE,APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro ,16 GB Unified Memory ,,Mac OS ,1 TB SSD41.15 ,4.8,"₹2,41,990", 16.2 
+APPLE,APPLE 2020 Macbook Air M1 -,Apple M1 ,8 GB DDR4 ,,Mac OS ,512 GB SSD33.78 ,4.6,"₹1,04,990", 13.3 
+DELL,DELL Vostro Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.1,"₹42,190", 14  
+ASUS,ASUS Vivobook Ultra 14 (2022) Core,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹39,990", 14 
+ASUS,ASUS TUF Dash F15 Core i7,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.5,"₹99,990", 15.6 
+APPLE,APPLE 2021 Macbook Pro M1 Max,Apple M1 Max ,32 GB Unified Memory ,,Mac OS ,1 TB SSD41.15 ,4.3,"₹3,09,490", 16.2 
+ASUS,ASUS VivoBook K15 OLED (2022) Core,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.4,"₹64,990", 15.6 
+ASUS,ASUS TUF Gaming A17 Ryzen 7,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD43.94 ,4.5,"₹85,990", 17.3 
+APPLE,APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro ,16 GB Unified Memory ,,Mac OS ,1 TB SSD36.07 ,4.8,"₹2,22,990", 14.2 
+Ultimus,Ultimus S151 Celeron Dual Core -,Intel Celeron Dual Core ,4 GB LPDDR4 ,,DOS ,128 GB SSD35.81 ,4.2,"₹15,990", 14.1 
+DELL,DELL Inspiron Core i3 11th Gen,, 2 Cores,," & Storage: 8GB DDR4 & 1TB + 256GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG Narrow BorderPorts: 2x USB 3.2 Gen1 ,1x USB 2.0, HDMI 1.4, SD Card reader, Audio jack, 1 M.2 2230/2280 slot for solid-state drive/Intel OptaneIntel Core i3 ", & Storage: 8GB DDR4 & 1TB + 256GB SSDGraphics & Keyboard: Integrated & Standard Keyboard,4.3,"₹45,900", & Storage: 8GB DDR4 & 1TB + 256GB SSDGraphics & Keyboard: Integrated & Standard Keyboard
+ASUS,ASUS Zenbook 13 Intel EVO Core,Intel Core i7 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD33.78 ,4.3,"₹79,990", 13.3  
+ASUS,ASUS Vivobook 14 (2022) Core i5,Intel Core i5 ,8 GB DDR4 ,12th Gen,Windows 11 ,512 GB SSD35.56 ,4.4,"₹56,990", 14 
+DELL,DELL Inspiron Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD39.62 ,4.2,"₹34,990", 15.6 
+DELL,DELL Inspiron Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,3.4,"₹43,580", 15.6 
+Lenovo,Lenovo Yoga 6 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD33.78 ,5.0,"₹74,990", 13.3 
+Lenovo,Lenovo Ideapad Slim 3 Core i3,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.3,"₹37,490", 15.6 
+Infinix,Infinix INBook X1 Neo Series Celeron,Intel Celeron Quad Core ,4 GB LPDDR4X ,,64 bit Windows 11 ,128 GB SSD35.56 ,4.2,"₹20,990", 14 
+MSI,MSI Crosshair 15 Core i7 12th,Intel Core i7 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.6,"₹1,09,990", 15.6 
+ASUS,ASUS Zenbook 13 Intel EVO Core,Intel Core i5 ,16 GB LPDDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD33.78 ,4.7,"₹71,990", 13.3  
+Infinix,Infinix X1 Slim Series Core i3,Intel Core i3 ,8 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.3,"₹32,990", 14 
+MSI,MSI Modern 14 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD35.56 ,4.5,"₹43,990", 14 
+acer,acer Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,3.9,"₹25,990", 14 
+ASUS,ASUS TUF Gaming F15 Core i9,Intel Core i9 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.4,"₹1,22,990", 15.6 
+acer,acer Aspire 7 Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,Windows 11 ,512 GB SSD39.62 ,4.3,"₹68,990", 15.6  
+acer,acer Aspire 7 Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹59,990", 15.6  
+acer,acer Aspire 3 Ryzen 5 Quad,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹39,990", 15.6 
+ASUS,ASUS VivoBook 15 Core i3 10th,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD39.62 ,4.0,"₹37,990", 15.6 
+Lenovo,Lenovo IdeaPad 3 Celeron Dual Core,Intel Celeron Dual Core ,4 GB DDR4 ,4th Gen,64 bit Windows 10 ,256 GB SSD35.56 ,4.0,"₹25,950", 14 
+realme,realme Book Prime Core i5 11th,Intel Core i5 ,16 GB LPDDR4X ,11th Gen,Windows 11 ,512 GB SSD35.56 ,4.2,"₹64,999", 14 
+HP,HP Pavilion Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹60,990", 15.6  
+ASUS,ASUS Vivobook 15 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹36,990", 15.6 
+SAMSUNG,SAMSUNG Galaxy Book2 Core i5 12th,Intel Core i5 ,8 GB LPDDR4X ,12th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.6,"₹59,990", 15.6  
+APPLE,APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro ,16 GB Unified Memory ,,Mac OS ,512 GB SSD41.15 ,4.8,"₹2,22,990", 16.2 
+DELL,DELL Core i9 12th Gen -,Intel Core i9 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.3,"₹2,35,283", 15.6  
+DELL,DELL Vostro Core i3 10th Gen,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.0,"₹38,990", 15.6  
+ASUS,ASUS Vivobook Pro 15 Ryzen 7,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹67,990", 15.6  
+MSI,MSI Katana GF66 Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹79,990", 15.6  
+ASUS,ASUS Vivobook Pro 15 OLED Core,Intel Core i5 ,16 GB LPDDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹89,990", 15.6  
+ASUS,ASUS ROG Zephyrus M16 (2022) Core,Intel Core i9 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD40.64 ,4.7,"₹2,41,990", 16  
+ASUS,ASUS Core i5 10th Gen -,Intel Core i5 ,8 GB DDR4 ,10th Gen,Windows 11 ,512 GB SSD35.56 ,4.3,"₹43,490", 14 
+realme,realme Book (Slim) Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD35.56 ,4.4,"₹46,990", 14 
+Vaio,Vaio E Series Ryzen 5 Quad,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.0,"₹40,990", 15.6 
+APPLE,APPLE 2020 Macbook Air M1 -,Apple M1 ,8 GB DDR4 ,,Mac OS ,256 GB SSD33.78 ,4.7,"₹94,990", 13.3 
+MSI,MSI Pulse GL66 Core i7 11th,Pre-installed Genuine Windows 10 Home OSIntel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.5,"₹1,14,990", 15.6 
+APPLE,APPLE 2022 MacBook Pro M2 -,Apple M2 ,8 GB Unified Memory ,,Mac OS ,256 GB SSD33.78 ,4.6,"₹1,21,990", 13.3  
+ASUS,ASUS EeeBook 14 with NumberPad Pentium,Intel Pentium Silver ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,4.1,"₹27,990", 14  
+DELL,DELL Inspiron Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹40,190", 15.6  
+Lenovo,Lenovo Ryzen 3 Dual Core 3rd,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,3rd Gen,Windows 11 ,512 GB SSD39.62 ,4.1,"₹34,990", 15.6 
+ASUS,ASUS ZenBook Duo 14 (2021) Touch,Intel Core i7 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 10 ,1 TB SSD35.56 ,4.7,"₹94,990", 14 
+Lenovo,Lenovo Legion 5 Core i5 10th,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹69,990", 15.6 
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹59,990", 15.6 
+ASUS,ASUS Vivobook 14 (2022) Core i5,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,5.0,"₹66,990", 14  Touchscreen 
+ASUS,ASUS Zenbook Flip 13 OLED Touch,Intel Core i7 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD33.78 ,4.2,"₹1,04,990", 13.3  Touchscreen 
+DELL,DELL Inspiron Core i3 11th Gen,,,," & Storage: 8GB DDR4 (2 DIMM Slots) & 256GB SSDSoftware: Win 11 + Office H&S 2021Display: 14.0"" FHD WVA Truelife Touch Narrow Border 60HzPorts: ""1 HDMI out 1.4a, 2 USB 3.2 Gen 1 Type-A, 1 USB 3.2 Gen 2 Type-C with Power Delivery and Video, 1 DC-in port, 1 3.5mm Headphone/Microphone combination jack""WiFi & BT: Intel Wi-Fi 6 2x2 (Gig+) and Bluetooth 5.1Intel Core i3 ", & Storage: 8GB DDR4 (2 DIMM Slots) & 256GB SSDSoftware: Win 11 + Office H&S 2021,4.3,"₹54,900", & Storage: 8GB DDR4 2 DIMM Slots & 256GB SSDSoftware: Win 11 + Office H&S 2021
+Lenovo,Lenovo Lenovo Legion 5 Pro Ryzen,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,1 TB SSD40.64 ,4.7,"₹1,36,990", 16 
+DELL,DELL Inspiron Ryzen 5 Dual Core,,,," & Storage: 8GB DDR4 (2 DIMM Slots) & 512GB SSDSoftware: Win 11 + Office H&S 2021Display: 15.6"" FHD WVA AG Narrow BorderPorts: ""2x USB 3.2 Gen1 ,1x USB 2.0, HDMI 1.4b, SD Card reader, Audio jackWiFi & BT: 802.11ac 1x1 WiFi and BluetoothAMD Ryzen 5 Dual Core ", & Storage: 8GB DDR4 (2 DIMM Slots) & 512GB SSDSoftware: Win 11 + Office H&S 2021,4.3,"₹48,184", & Storage: 8GB DDR4 2 DIMM Slots & 512GB SSDSoftware: Win 11 + Office H&S 2021
+ASUS,ASUS Vivobook S14 OLED (2022) Intel,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.5,"₹74,990", 14  
+acer,acer Aspire Vero(Green PC ) Core,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.8,"₹60,990", 15.6 
+HP,HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹49,990", 14 
+DELL,DELL Core i5 11th Gen -,"NVIDIA RTX 3050 Graphics upto 90W TGP15.6 inch Full HD AG Display (250 nits Brightness, 120Hz, Narrow Border)Alienware Command CenterIntel Core i5 ",8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹67,990", 15.6 
+Lenovo,Lenovo Ideapad Slim 3i (2021) Core,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.3,"₹58,000", 14  
+Infinix,Infinix INBook X1 Core i3 10th,Intel Core i3 ,8 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.3,"₹29,990", 14 
+ASUS,ASUS ROG Flow X13 Ryzen 7,AMD Ryzen 7 Octa Core ,16 GB LPDDR5 ,,64 bit Windows 11 ,1 TB SSD34.04 ,4.2,"₹1,14,990", 13.4  Touchscreen 
+HP,HP Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹33,990", 15.6 
+ASUS,ASUS VivoBook K15 OLED (2022) Ryzen,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹64,990", 15.6 
+Lenovo,Lenovo Legion 5 Core i5 11th,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.0,"₹79,990", 15.6 
+ASUS,ASUS Ryzen 5 Dual Core 5th,AMD Ryzen 5 Dual Core ,8 GB DDR4 ,5th Gen,Windows 11 ,512 GB SSD39.62 ,4.5,"₹56,990", 15.6 
+HP,HP Envy x360 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD33.78 ,4.7,"₹81,990", 13.3 
+MSI,MSI GP66 Leopard Core i7 11th,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.5,"₹1,29,990", 15.6 
+DELL,DELL Inspiron Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 10 ,1 TB HDD39.62 ,4.0,"₹38,990", 15.6 
+HP,HP Pavilion Gaming Ryzen 7 Octa,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.5,"₹79,990", 15.6 
+APPLE,APPLE 2022 MacBook AIR M2 -,Apple M2 ,8 GB Unified Memory ,,Mac OS ,512 GB SSD34.54 ,4.7,"₹1,39,990", 13.6  
+ASUS,ASUS TUF Gaming F17 (2022) with,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD43.94 ,4.1,"₹1,09,990", 17.3 
+ASUS,ASUS ROG Zephyrus G15 (2022) with,AMD Ryzen 9 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD39.62 ,4.3,"₹1,54,990", 15.6  
+Lenovo,Lenovo IdeaPad Core i5 11th Gen,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹62,990", 15.6  
+ASUS,ASUS VivoBook 14 (2022) Core i3,Intel Core i3 ,8 GB DDR4 ,12th Gen,Windows 11 ,512 GB SSD35.56 ,4.4,"₹47,990", 14 
+DELL,DELL Ryzen 3 Quad Core 5425U,AMD Ryzen 3 Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.6,"₹43,667", 15.6  
+ASUS,ASUS ROG Strix G15 (2022) with,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD39.62 ,4.5,"₹1,35,990", 15.6 
+ASUS,ASUS ROG Strix G15 (2022) Ryzen,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹98,990", 15.6  
+Infinix,Infinix X1 Series Core i7 10th,Intel Core i7 ,16 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹46,990", 14  
+ASUS,ASUS VivoBook Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.3,"₹35,990", 14  
+ASUS,ASUS TUF Gaming F17 (2022) Core,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD43.94 ,4.3,"₹1,09,990", 17.3 
+APPLE,APPLE 2022 MacBook AIR M2 -,Apple M2 ,8 GB Unified Memory ,,Mac OS ,512 GB SSD34.54 ,4.3,"₹1,39,990", 13.6  
+DELL,DELL Core i5 12th Gen -,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.3,"₹74,770", 14  Touchscreen 
+HP,HP Ryzen 3 Quad Core 5300U,AMD Ryzen 3 Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.3,"₹40,799", 14  
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,16 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.5,"₹69,490", 15.6 
+ASUS,ASUS Vivobook Ultra 14 (2022) Core,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹39,990", 14 
+ASUS,ASUS Zenbook S 13 OLED Ryzen,AMD Ryzen 5 Hexa Core ,16 GB LPDDR5 ,,Windows 11 ,512 GB SSD33.78 ,4.8,"₹99,990", 13.3  Touchscreen 
+APPLE,APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro ,16 GB Unified Memory ,,Mac OS ,1 TB SSD41.15 ,4.8,"₹2,41,990", 16.2 
+acer,acer Extensa Core i5 11th Gen,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,3.9,"₹40,990", 15.6  
+HP,HP 15s Core i5 11th Gen,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹60,390", 15.6 
+HP,HP Pavilion Gaming Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.4,"₹69,990", 15.6 
+ASUS,ASUS Core i3 12th Gen -,Intel Core i3 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.0,"₹44,990", 14  
+ASUS,ASUS Core i5 10th Gen -,Intel Core i5 ,8 GB DDR4 ,10th Gen,Windows 11 ,256 GB SSD39.62 ,4.7,"₹44,990", 15.6 
+HP,HP Ryzen 5 Hexa Core 5500U,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹55,990", 15.6  
+Lenovo,Lenovo Yoga Slim 7 Pro Core,Intel Core i5 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.8,"₹74,990", 14  
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.5,"₹59,990", 15.6 
+APPLE,APPLE 2021 Macbook Pro M1 Pro,Apple M1 Pro ,16 GB Unified Memory ,,Mac OS ,512 GB SSD41.15 ,4.8,"₹2,22,990", 16.2 
+acer,acer Nitro 5 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹62,990", 15.6  
+MSI,MSI GF63 Thin Core i5 9th,Intel Core i5 ,8 GB DDR4 ,9th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.5,"₹58,499", 15.6 
+Lenovo,Lenovo IdeaPad Gaming 3 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.3,"₹65,990", 15.6 
+DELL,DELL G15 Core i7 12th Gen,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.0,"₹1,11,990", 15.6  
+Lenovo,Lenovo IdeaPad 5 Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.0,"₹68,490", 15.6 
+ASUS,ASUS ExpertBook P2 Core i5 10th,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD35.56 ,4.3,"₹83,990", 14 
+acer,acer Aspire 7 Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹54,990", 15.6 
+ASUS,ASUS Chromebook Flip Touch Celeron Dual,Intel Celeron Dual Core ,4 GB LPDDR4 ,,Chrome ,29.46 ,4.0,"₹14,990", 11.6 
+APPLE,APPLE MacBook Pro M1 - (8,Apple M1 ,8 GB DDR4 ,,Mac OS ,1 TB SSD33.78 ,4.7,"₹1,49,990", 13.3 
+DELL,DELL Vostro Core i5 11th Gen,,: 11th Generation Intel Core i5-1135G7 ,11th Gen ,: 11th Generation Intel Core i5-1135G7 ,: 11th Generation Intel Core i5-1135G7 ,3.9,"₹63,090",: 11th Generation Intel Core i5-1135G7 
+MSI,MSI Vector GP66 Core i7 12th,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.2,"₹2,00,000", 15.6 
+Lenovo,Lenovo IdeaPad 3 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD39.62 ,4.3,"₹37,390", 15.6  
+ASUS,ASUS VivoBook Flip 14 Core i5,Intel Core i5 ,8 GB LPDDR4X ,11th Gen,Windows 11 ,512 GB SSD35.56 ,4.5,"₹63,990", 14 
+DELL,DELL Vostro Core i3 10th Gen,,: 10th Generation Intel Core i3-1005G1 ,: 10th Generation Intel Core i3-1005G1 ,: 10th Generation Intel Core i3-1005G1 ,: 10th Generation Intel Core i3-1005G1 ,4.1,"₹43,090",: 10th Generation Intel Core i3-1005G1 
+Lenovo,Lenovo ThinkPad E15 Core i3 11th,Intel Core i3 ,4 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD39.62 ,4.1,"₹44,700", 15.6 
+HP,HP Intel Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD35.56 ,4.4,"₹41,150", 14 
+ASUS,ASUS Ryzen 3 Dual Core -,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,Windows 11 ,256 GB SSD39.62 ,4.1,"₹33,990", 15.6 
+MSI,MSI Core i7 12th Gen -,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD43.94 ,4.1,"₹1,90,890", 17.3  
+ASUS,ASUS ROG Flow Z13 (2022) Core,Intel Core i9 ,16 GB LPDDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD34.04 ,4.4,"₹1,74,990", 13.4  Touchscreen 
+HP,HP OMEN Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,1 TB SSD40.89 ,3.5,"₹1,18,990", 16.1 
+ASUS,ASUS TUF GAMING F15 Core i5,Intel Core i5 ,16 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.5,"₹63,980", 15.6 
+acer,acer Aspire 5 Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹54,300", 15.6 
+DELL,DELL Inspiron Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD39.62 ,4.2,"₹36,400", 15.6  
+ASUS,ASUS Vivobook 15 Core i3 8th,Intel Core i3 ,4 GB DDR4 ,8th Gen,64 bit Windows 10 ,256 GB SSD39.62 ,4.3,"₹28,590", 15.6 
+DELL,DELL Ryzen 5 Hexa Core -,AMD Ryzen 5 Hexa Core ,16 GB DDR4 ,,Windows 11 ,512 GB SSD40.64 ,3.4,"₹69,999", 16 
+ASUS,ASUS ROG Strix SCAR 15 (2022),Intel Core i9 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,5.0,"₹3,01,990", 15.6 
+Lenovo,Lenovo IdeaPad 3 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,Windows 11 ,256 GB SSD38.1 ,4.3,"₹37,000", 15 
+Lenovo,Lenovo ThinkBook 13s Core i5 11th,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD33.02 ,4.2,"₹64,990", 13 
+DELL,DELL Vostro Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD38.0 ,4.3,"₹42,690", 14.96  
+ASUS,ASUS ROG Strix G15 (2022) with,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD39.62 ,5.0,"₹1,40,990", 15.6 
+Lenovo,Lenovo Core i3 11th Gen -,Intel Core i3 ,4 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD38.1 ,4.3,"₹38,990", 15 
+HP,HP Spectre Core i7 12th Gen,Intel Core i7 ,16 GB LPDDR4X ,12th Gen,64 bit Windows 11 ,512 GB SSD34.29 ,3.7,"₹1,28,990", 13.5 
+acer,acer Aspire Core i3 12th Gen,Intel Core i3 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹54,999", 15.6 
+acer,acer Aspire 5 Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.1,"₹60,130", 15.6 
+acer,acer Aspire 3 Pentium Silver -,Intel Pentium Silver ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,4.3,"₹29,490", 14 
+DELL,DELL Inspiron Core i5 11th Gen,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.1,"₹72,490", 14  Touchscreen 
+GIGABYTE,GIGABYTE G5 GD Core i5 11th,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,5.0,"₹73,990", 15.6  
+acer,acer Aspire 5 Core i5 11th,Free upgrade to Windows 11 when availableIntel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB HDD39.62 ,4.0,"₹47,130", 15.6 
+Lenovo,Lenovo Ideapad Slim 5 Ryzen 7,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD35.56 ,4.4,"₹55,600", 14 
+DELL,DELL Vostro Ryzen 5 Quad Core,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD35.56 ,4.4,"₹49,690", 14 
+ASUS,ASUS Studiobook Pro Core i7 12th,Intel Core i7 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD40.64 ,4.1,"₹2,39,990", 16 
+MSI,MSI Katana GF66 Core i5 11th,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.5,"₹73,990", 15.6  
+HP,HP 14s Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD35.56 ,4.4,"₹52,490", 14  
+HP,HP Core i3 11th Gen -,Intel Core i3 ,8 GB DDR4 ,11th Gen,Windows 11 ,512 GB SSD39.62 ,4.3,"₹41,990", 15.6 
+ASUS,ASUS Vivobook 14 Pentium Quad Core,Intel Pentium Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,4.3,"₹29,990", 14 
+Nokia,Nokia PureBook X14 Core i5 10th,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.4,"₹50,490", 14 
+acer,acer Predator Helios 300 Core i7,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB HDD|512 GB SSD39.62 ,4.4,"₹96,490", 15.6 
+MSI,MSI Prestige 14 Intel EVO Core,Intel Core i5 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.5,"₹74,990", 14 
+ASUS,ASUS Core i5 10th Gen -,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.2,"₹51,990", 15.6 
+ASUS,ASUS Ryzen 5 Hexa Core -,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,3.9,"₹71,345", 15.6 
+ASUS,ASUS TUF Gaming F15 Core i7,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.5,"₹1,01,490", 15.6 
+MSI,MSI Stealth GS66 Core i7 12th,Intel Core i7 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.2,"₹2,74,990", 15.6  
+ASUS,ASUS ROG Zephyrus G15 (2022) with,AMD Ryzen 9 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.4,"₹1,99,990", 15.6 
+DELL,DELL Vostro Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD35.56 ,3.9,"₹41,090", 14  
+Lenovo,Lenovo Ideapad Slim 3i (2021) Core,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD39.62 ,4.3,"₹50,499", 15.6 
+HP,HP Victus Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD40.89 ,4.2,"₹78,950", 16.1 
+Lenovo,Lenovo IdeaPad Flex 5 Ryzen 5,AMD Ryzen 5 Hexa Core ,16 GB LPDDR4X ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹67,990", 14 
+ASUS,ASUS ROG Strix G15 (2022) with,AMD Ryzen 9 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.0,"₹1,87,990", 15.6  
+Lenovo,Lenovo Yoga Slim 7 Intel EVO,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD35.56 ,4.2,"₹1,02,990", 14 
+ASUS,ASUS ExpertBook Core i3 11th Gen,Intel Core i3 ,4 GB DDR4 ,11th Gen,64 bit DOS ,256 GB SSD39.62 ,4.4,"₹35,990", 15.6 
+HP,HP 15s Ryzen 5 Quad Core,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹52,575", 15.6 
+DELL,DELL Inspiron Ryzen 5 Quad Core,AMD Ryzen 5 Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.0,"₹50,990", 15.6 
+Lenovo,Lenovo Core i5 11th Gen -,Intel Core i5 ,16 GB DDR4 ,11th Gen,Windows 10 ,512 GB SSD39.62 ,4.2,"₹60,125", 15.6 
+Lenovo,Lenovo IdeaPad 1 Celeron Dual Core,Intel Celeron Dual Core ,4 GB DDR4 ,4th Gen,64 bit Windows 10 ,256 GB SSD29.46 ,3.9,"₹26,490", 11.6 
+HP,HP Victus Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD40.89 ,3.9,"₹80,249", 16.1  
+acer,acer Predator Helios 300 Core i5,"Pre-installed Genuine Windows 10 Operating System (Includes Built-in Security, Free Automated Updates, Latest Features)Dual Fan Cooling with Metal AeroBlade 3D128 GB SSD for Reduced Boot Up Time and in Game LoadingUpgradable SSD Upto 512 GB and RAM Upto 32 GBNVIDIA Geforce GTX 1050Ti for Desktop Level PerformanceIntel Core i5 ",8 GB DDR4 ,7th Gen,64 bit Windows 10 ,1 TB HDD|128 GB SSD39.62 ,4.5,"₹1,29,999", 15.6 
+ASUS,ASUS ROG Zephyrus G14 Ryzen 7,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,4th Gen,64 bit Windows 10 ,1 TB SSD35.56 ,4.1,"₹76,990", 14 
+ASUS,ASUS Vivobook 15 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.2,"₹36,990", 15.6 
+MSI,MSI Pulse GL66 Core i7 11th,Pre-installed Genuine Windows 10 Home OSIntel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.6,"₹1,07,790", 15.6 
+DELL,DELL Inspiron Core i5 11th Gen,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹75,990", 14 
+ASUS,ASUS ZenBook Duo 14 (2021) Touch,Intel Core i5 ,16 GB LPDDR4X ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.5,"₹95,990", 14 
+acer,acer aspire 5 gaming Core i5,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,3.7,"₹61,999", 15.6 
+HP,HP Celeron Dual Core - (8,Intel Celeron Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD35.56 ,4.4,"₹28,990", 14 
+Lenovo,Lenovo IdeaPad Gaming 3 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.3,"₹54,990", 15.6 
+ASUS,ASUS Core i7 11th Gen -,Intel Core i7 ,16 GB DDR4 ,11th Gen,Windows 11 ,512 GB SSD39.62 ,4.0,"₹56,990", 15.6 
+ASUS,ASUS Core i5 11th Gen -,Intel Core i5 ,8 GB DDR4 ,11th Gen,Windows 11 ,256 GB SSD35.56 ,5.0,"₹45,990", 14 
+ASUS,ASUS Vivobook 14 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD35.81 ,4.3,"₹38,216", 14.1 
+MSI,MSI Katana GF66 Core i7 12th,Intel Core i7 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹79,990", 15.6 
+DELL,DELL Inspiron 3501 Core i3 11th,Intel Core i3 ,4 GB DDR4 ,11th Gen,Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.6,"₹43,990", 15.6 
+HP,HP Victus Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,1 TB SSD40.89 ,4.4,"₹1,08,250", 16.1 
+ASUS,ASUS VivoBook 15 Core i3 10th,Intel Core i3 ,4 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD39.62 ,3.7,"₹28,990", 15.6 
+MSI,MSI Core i9 12th Gen -,Intel Core i9 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,2 TB SSD43.94 ,4.2,"₹3,89,990", 17.3  
+DELL,DELL Inspiron Core i5 11th Gen,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,3.7,"₹67,224", 15.6 
+acer,acer Nitro 5 Ryzen 7 Octa,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.4,"₹1,14,990", 15.6 
+ASUS,ASUS ExpertBook P1 Core i5 10th,Intel Core i5 ,4 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD35.56 ,4.2,"₹61,249", 14 
+HP,HP Pavilion Intel Core i5 12th,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹69,990", 15.6  
+Lenovo,Lenovo Thinkpad Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit DOS ,512 GB SSD35.56 ,4.5,"₹69,990", 14 
+Lenovo,Lenovo IdeaPad 3 Ryzen 3 Dual,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 10 ,256 GB SSD39.62 ,4.4,"₹37,990", 15.6 
+Infinix,Infinix X1 Slim Series Core i5,Intel Core i5 ,8 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.2,"₹36,990", 14  
+ASUS,ASUS (2022) Celeron Dual Core -,Intel Celeron Dual Core ,4 GB DDR4 ,,64 bit Windows 11 ,128 GB SSD29.46 ,4.2,"₹29,980", 11.6  Touchscreen 
+DELL,DELL Inspiron Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹41,600", 15.6  
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹61,986", 15.6  
+HP,HP Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD39.62 ,4.3,"₹38,999", 15.6 
+Lenovo,Lenovo IdeaPad 3 Core i3 10th,Intel Core i3 ,4 GB DDR4 ,10th Gen,Windows 11 ,256 GB SSD35.56 ,4.5,"₹31,990", 14  
+ASUS,ASUS Vivobook 15 Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹46,990", 15.6  
+Infinix,Infinix INBook X1 Core i5 10th,Intel Core i5 ,8 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,4.1,"₹37,990", 14 
+acer,acer Nitro 5 Ryzen 5 Hexa,Free upgrade to Windows 11 when availableAMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.5,"₹61,490", 15.6 
+HP,HP OMEN 15 Ryzen 7 Octa,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 10 ,1 TB SSD39.62 ,4.6,"₹1,09,990", 15.6 
+HP,HP Pavilion Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹54,990", 15.6  
+Lenovo,Lenovo IdeaPad Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD35.56 ,4.0,"₹50,990", 14 
+MSI,MSI GF63 Thin Core i5 9th,"15.6 inches Full HD IPS Thin Bezel Display (60Hz, 45% NTSC Color Gamut)Intel Core i5 ",8 GB DDR4 ,9th Gen,64 bit Windows 10 ,1 TB HDD39.62 ,4.2,"₹62,190", 15.6 
+ASUS,ASUS Chromebook Flip Touch Celeron Dual,Intel Celeron Dual Core ,4 GB LPDDR4 ,,Chrome ,39.62 ,4.0,"₹24,390", 15.6 
+Lenovo,Lenovo IdeaPad 3 Core i3 10th,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 11 ,1 TB HDD39.62 ,3.9,"₹36,990", 15.6 
+HP,HP OMEN 15 Ryzen 7 Octa,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 10 ,1 TB SSD39.62 ,4.6,"₹1,59,990", 15.6 
+ASUS,ASUS Core i3 11th Gen -,Intel Core i3 ,4 GB DDR4 ,11th Gen,64 bit Windows 11 ,256 GB SSD35.56 ,4.0,"₹34,490", 14  
+ASUS,ASUS Ryzen 9 Octa Core 10th,AMD Ryzen 9 Octa Core ,16 GB DDR4 ,10th Gen,Windows 11 ,512 GB SSD42.16 ,4.4,"₹99,990", 16.6 
+ASUS,ASUS Zenbook Flip 13 OLED Touch,Intel Core i5 ,8 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD33.78 ,4.4,"₹79,990", 13.3  
+HP,HP 15s Intel Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.1,"₹41,490", 15.6 
+DELL,DELL Ryzen 7 Octa Core 6800H,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD39.62 ,4.2,"₹2,06,581", 15.6  
+ASUS,ASUS Ryzen 5 Hexa Core 10th,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,10th Gen,Windows 11 ,512 GB SSD39.62 ,4.4,"₹59,990", 15.6 
+acer,acer Aspire Vero (Green PC) Core,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.6,"₹62,990", 15.6  
+ASUS,ASUS ROG Zephyrus G15 Ryzen 9,AMD Ryzen 9 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.7,"₹1,94,990", 15.6 
+ASUS,ASUS VivoBook K15 OLED (2022) Ryzen,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.4,"₹62,990", 15.6 
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.5,"₹61,990", 15.6 
+ASUS,ASUS ROG Strix G15 (2022) Ryzen,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD39.62 ,4.0,"₹1,05,990", 15.6  
+acer,acer Predator Helios 300 Core i7,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,5.0,"₹1,55,490", 15.6  
+Ultimus,Ultimus S151 Celeron Dual Core -,Intel Celeron Dual Core ,4 GB LPDDR4 ,,Windows 11 ,128 GB SSD35.81 ,4.3,"₹19,990", 14.1 
+Lenovo,Lenovo Core i3 10th Gen -,Intel Core i3 ,4 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD39.62 ,3.9,"₹33,499", 15.6 
+HP,HP Pavilion Intel Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,3.9,"₹63,990", 15.6 
+acer,acer Predator Helios 300 Core i9,Intel Core i9 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.4,"₹1,24,990", 15.6  
+ASUS,ASUS EeeBook 12 Celeron Dual Core,Intel Celeron Dual Core ,4 GB DDR4 ,,64 bit Windows 11 ,29.46 ,4.5,"₹21,990", 11.6  
+Lenovo,Lenovo IdeaPad 3 Celeron Dual Core,Intel Celeron Dual Core ,4 GB DDR4 ,,64 bit Windows 10 ,256 GB SSD35.56 ,5.0,"₹30,100", 14 
+HP,HP Core i7 12th Gen -,Intel Core i7 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD43.94 ,4.4,"₹1,99,990", 17.3  
+acer,acer Aspire 5 Core i5 11th,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.5,"₹61,130", 15.6 
+Lenovo,Lenovo Core i3 11th Gen -,Intel Core i3 ,8 GB DDR4 ,11th Gen,Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.0,"₹40,990", 15.6 
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.4,"₹75,990", 15.6 
+HP,HP Laptop with Backlit Keyboard Core,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.3,"₹46,890", 15.6 
+ASUS,ASUS EeeBook 12 Celeron Dual Core,Intel Celeron Dual Core ,4 GB DDR4 ,,64 bit Windows 11 ,29.46 ,4.0,"₹19,990", 11.6  
+ASUS,ASUS Vivobook S14 OLED (2022) Intel,Intel Core i7 ,16 GB DDR4 ,12th Gen,Windows 11 ,512 GB SSD35.56 ,3.8,"₹89,990", 14 
+DELL,DELL Core i5 11th Gen -,Intel Core i5 ,8 GB DDR4 ,11th Gen,Windows 11 ,512 GB SSD39.62 ,4.0,"₹59,790", 15.6 
+MSI,MSI Core i9 12th Gen -,Intel Core i9 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.1,"₹1,25,990", 15.6  
+ASUS,ASUS ROG Zephyrus Duo 16 (2022),AMD Ryzen 7 Octa Core ,32 GB DDR5 ,,64 bit Windows 11 ,2 TB SSD40.64 ,4.8,"₹2,49,990", 16  
+ASUS,ASUS ROG Zephyrus G15 (2022) with,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.0,"₹1,49,990", 15.6 
+DELL,DELL Inspiron Pentium Quad Core -,Intel Pentium Quad Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD39.62 ,4.8,"₹36,990", 15.6 
+ASUS,ASUS ASUS TUF Dash Core i5,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.3,"₹85,990", 15.6 
+HP,HP Ryzen 7 Octa Core 5700U,AMD Ryzen 7 Octa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD35.56 ,4.2,"₹60,990", 14 
+DELL,DELL G15 Core i5 12th Gen,Intel Core i5 ,8 GB DDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.4,"₹87,900", 15.6  
+Lenovo,Lenovo Ideapad 3 Dual Core 3020e,AMD Dual Core ,4 GB DDR4 ,,64 bit Windows 10 ,1 TB HDD39.62 ,4.0,"₹27,490", 15.6 
+HP,HP G8 Ryzen 3 Dual Core,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,1 TB HDD35.56 ,3.7,"₹28,999", 14 
+acer,acer Predator Helios 300 Core i7,Intel Core i7 ,16 GB DDR4 ,11th Gen,Windows 10 ,1 TB HDD|512 GB SSD39.62 ,4.5,"₹1,17,990", 15.6 
+DELL,DELL Core i5 12th Gen -,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,1 TB HDD|256 GB SSD39.62 ,4.7,"₹61,497", 15.6  
+HP,HP OMEN Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD40.89 ,4.2,"₹70,400", 16.1 
+Lenovo,Lenovo IdeaPad 5 Pro Core i5,Intel Core i5 ,16 GB DDR4 ,11th Gen,Windows 10 ,512 GB SSD35.56 ,4.0,"₹69,000", 14  
+ASUS,ASUS ROG Zephyrus G15 (2022) with,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.2,"₹1,49,990", 15.6 
+HP,HP Victus Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR5 ,,64 bit Windows 11 ,512 GB SSD40.89 ,4.4,"₹96,579", 16.1  
+DELL,DELL Core i7 11th Gen -,, 16MB L3,," & Storage: 16GB DDR4 (2 DIMM Slots) & 512GB SSDGraphics: NVIDIA� GEFORCE� RTX 3050 Ti (4GB GDDR6)Display: 15.6"" FHD WVA AG 250 nits 120Hz Narrow Border, Backlit Keyboard OrangeColor: Dark Shadow GreyPorts: 1. HiSpeed USB 2.0 | 2. HiSpeed USB 2.0 with PowerShare | 3. USB 3.2 Gen 1 Type-C port with DisplayPort with alt mode | 4. SuperSpeed USB 3.2 | 5. HDMI | 6. Power in | 7. RJ45 | 8. Headphones/micIntel Core i7 ", & Storage: 16GB DDR4 (2 DIMM Slots) & 512GB SSDGraphics: NVIDIA� GEFORCE� RTX 3050 Ti (4GB GDDR6),4.2,"₹1,01,990", & Storage: 16GB DDR4 2 DIMM Slots & 512GB SSDGraphics: NVIDIA� GEFORCE� RTX 3050 Ti 4GB GDDR6
+HP,HP Victus Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,8 GB DDR5 ,,64 bit Windows 11 ,512 GB SSD40.89 ,4.6,"₹94,990", 16.1  
+MSI,MSI Stealth GS77 Core i7 12th,Intel Core i7 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,2 TB SSD43.94 ,4.5,"₹3,14,990", 17.3 
+DELL,DELL Core i3 11th Gen -,Intel Core i3 ,8 GB DDR4 ,11th Gen,Windows 11 ,1 TB HDD|256 GB SSD38.1 ,4.4,"₹46,900", 15 
+ASUS,ASUS ROG Zephyrus M16 (2022) with,Intel Core i9 ,32 GB DDR5 ,12th Gen,64 bit Windows 11 ,2 TB SSD40.64 ,4.5,"₹3,31,990", 16  
+DELL,DELL G15 Core i7 12th Gen,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,4.6,"₹1,16,490", 15.6 
+HP,HP Ryzen 3 Hexa Core 4th,AMD Ryzen 3 Hexa Core ,8 GB DDR4 ,4th Gen,Windows 10 ,512 GB SSD39.62 ,4.2,"₹64,590", 15.6 
+DELL,DELL G15 Core i7 12th Gen,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,3.9,"₹1,37,990", 15.6  
+DELL,DELL Vostro Core i5 11th Gen,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.1,"₹55,690", 14 
+Lenovo,Lenovo Legion 5 Core i7 11th,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.2,"₹1,09,990", 15.6 
+ASUS,ASUS Core i7 11th Gen -,Intel Core i7 ,8 GB DDR4 ,11th Gen,Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.1,"₹79,990", 15.6 
+ASUS,ASUS Vivobook Pro 16X OLED (2021),AMD Ryzen 9 Octa Core ,16 GB DDR4 ,9th Gen,64 bit Windows 11 ,1 TB SSD40.64 ,4.3,"₹1,30,500", 16  
+ASUS,ASUS ROG Zephyrus Duo 16 (2022),AMD Ryzen 9 Octa Core ,32 GB DDR5 ,,64 bit Windows 11 ,2 TB SSD40.64 ,4.3,"₹3,61,990", 16  
+ASUS,ASUS ROG Flow X16 (2022) with,AMD Ryzen 9 Octa Core ,16 GB DDR5 ,,Windows 11 ,1 TB SSD40.64 ,4.3,"₹2,11,990", 16  Touchscreen 
+DELL,DELL Inspiron Core i3 10th Gen,Intel Core i3 ,4 GB DDR4 ,10th Gen,64 bit Windows 10 ,256 GB SSD38.1 ,4.4,"₹39,890", 15 
+MSI,MSI Core i7 12th Gen -,Intel Core i7 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,1 TB SSD39.62 ,3.7,"₹1,39,990", 15.6 
+MSI,MSI GP65 Leopard Core i7 10th,"15.6 inches Full HD IPS Thin Bezel Display (144Hz, 45% NTSC Color Gamut)Intel Core i7 ",16 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.5,"₹99,990", 15.6 
+HP,HP Pavilion Intel Core i5 11th,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.5,"₹66,700", 14 
+DELL,DELL Core i5 11th Gen -,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.3,"₹68,990", 15.6 
+DELL,DELL Allienware Core i9 11th Gen,Intel Core i9 ,32 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB SSD43.94 ,4.4,"₹4,34,830", 17.3  
+ALIENWARE,ALIENWARE Core i9 10th Gen -,"NVIDIA GeForce RTX 2080 with Max-Q15.6 inch Full HD LED Backlit Anti-glare IPS Display, 300 Hz, 300 NitsAlienware Cryo-tech thermal technology to keep the system cool and running at highest performanceTobii-eye tracking to track head pose, presence, fine gaze and eye positionIn-built Alienware Command center software with enhanced control over system settingsIntel Core i9 ",32 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.6,"₹3,45,390", 15.6 
+HP,HP Victus Core i7 12th Gen,Intel Core i7 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.2,"₹1,05,822", 15.6 
+Lenovo,Lenovo IdeaPad Flex 3 Chromebook Celeron,Intel Celeron Dual Core ,4 GB LPDDR4X ,,64 bit Chrome ,29.46 ,3.6,"₹28,490", 11.6 
+Lenovo,Lenovo Ideapad Slim 5i Core i5,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.2,"₹66,990", 15.6  
+acer,acer Nitro 5 Core i5 12th,Intel Core i5 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,3.5,"₹86,999", 15.6 
+ASUS,ASUS Core i3 11th Gen -,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD39.62 ,4.3,"₹36,990", 15.6 
+Lenovo,Lenovo IdeaPad 1 Celeron Dual Core,Intel Celeron Dual Core ,4 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD29.46 ,3.7,"₹23,250", 11.6  
+DELL,DELL Vostro Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD35.56 ,4.3,"₹42,390", 14 
+Lenovo,Lenovo Ideapad Slim 5i Core i5,Intel Core i5 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.2,"₹58,990", 14 
+ASUS,ASUS ZenBook Pro 15 Core i7,First Ever ScreenpadNVIDIA GeForce GTX 1050 TiIntel Core i7 ,16 GB DDR4 ,8th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.8,"₹1,10,990", 15.6 
+acer,acer Predator Helios 300 Core i5,NVIDIA Geforce GTX 1050 Ti for Desktop Level PerformanceOptimized Dolby Audio Premium Sound Enhancement128 GB SSD Capacity for Reduced Boot Up Time and in Game LoadingDual Fan Cooling with Metal AeroBlade for Interuption Free GamingFineTip Backlit Keyboard with Independent Standard Numeric KeypadIntel Core i5 ,8 GB DDR4 ,8th Gen,64 bit Windows 10 ,1 TB HDD|128 GB SSD39.62 ,4.6,"₹74,590", 15.6 
+DELL,DELL Ryzen 5 Hexa Core AMD,"NVIDIA RTX 3050 Graphics upto 90W TGP15.6 inch Full HD AG Display (250 nits Brightness, 120Hz, Narrow Border)Alienware Command CenterAMD Ryzen 5 Hexa Core ",8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD39.62 ,4.7,"₹71,990", 15.6 
+Lenovo,Lenovo Yoga Slim 7 Core i5,Intel Core i5 ,16 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.2,"₹84,990", 14 
+ASUS,ASUS Zenbook S 13 OLED Ryzen,AMD Ryzen 7 Octa Core ,16 GB LPDDR5 ,,Windows 11 ,1 TB SSD33.78 ,4.4,"₹1,19,990", 13.3  Touchscreen 
+MSI,MSI Creator 15 Core i7 10th,Intel Core i7 ,32 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.6,"₹2,14,990", 15.6 
+MSI,MSI Modern 14 Core i3 11th,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,512 GB SSD35.56 ,4.2,"₹48,790", 14 
+DELL,DELL Vostro Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD40.64 ,4.4,"₹76,000", 16 
+ASUS,ASUS ROG Flow X13 (2021) Ryzen,AMD Ryzen 9 Octa Core ,32 GB LPDDR4X ,,64 bit Windows 10 ,1 TB SSD34.04 ,5.0,"₹2,24,990", 13.4  Touchscreen 
+Infinix,Infinix INBook X2 Plus Core i3,Intel Core i3 ,8 GB LPDDR4X ,11th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹49,990", 15.6  
+ASUS,ASUS ROG Flow Z13 (2022) Core,Intel Core i7 ,16 GB LPDDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD34.04 ,4.4,"₹1,64,990", 13.4  Touchscreen 
+HP,HP Ryzen 3 Dual Core 3250U,AMD Ryzen 3 Dual Core ,8 GB DDR4 ,,64 bit Windows 11 ,256 GB SSD39.62 ,3.9,"₹31,490", 15.6 
+DELL,DELL Core i3 12th Gen -,Intel Core i3 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,5.0,"₹48,077", 15.6  
+ASUS,ASUS ROG Strix G15 Advantage Edition,AMD Ryzen 9 Octa Core ,16 GB DDR4 ,,Windows 10 ,1 TB SSD39.62 ,4.6,"₹1,54,990", 15.6 
+ASUS,ASUS Core i7 10th Gen -,Intel Core i7 ,32 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.6,"₹2,24,990", 15.6 
+ASUS,ASUS VivoBook 15 Core i5 10th,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD39.62 ,3.9,"₹44,990", 15.6 
+ASUS,ASUS TUF Gaming F15 Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹65,990", 15.6  
+ASUS,ASUS Vivobook 14 Core i3 10th,Intel Core i3 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD35.81 ,3.9,"₹31,990", 14.1 
+Lenovo,Lenovo Core i3 10th Gen -,Intel Core i3 ,8 GB DDR4 ,10th Gen,Windows 10 ,256 GB SSD35.56 ,5.0,"₹38,980", 14 
+HP,HP HP Pavilion Ryzen 5 Hexa,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.4,"₹68,990", 15.6 
+DELL,DELL Inspiron Core i3 11th Gen,Intel Core i3 ,8 GB DDR4 ,11th Gen,64 bit Windows 10 ,256 GB SSD39.62 ,4.0,"₹43,090", 15.6 
+DELL,DELL Core i3 12th Gen -,Intel Core i3 ,8 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,5.0,"₹49,348", 15.6  
+DELL,DELL Allienware Core i7 12th Gen,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD39.62 ,4.1,"₹2,21,774", 15.6  
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 5,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.0,"₹73,990", 15.6 
+DELL,DELL Inspiron Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD40.64 ,4.5,"₹77,990", 16  
+ALIENWARE,ALIENWARE Core i7 10th Gen -,"NVIDIA GeForce RTX 206015.6 inch Full HD LED Backlit Anti-glare IPS Display, 300 Hz, 300 NitsAlienware Cryo-tech thermal technology to keep the system cool and running at highest performanceTobii-eye tracking to track head pose, presence, fine gaze and eye positionIn-built Alienware Command center software with enhanced control over system settingsIntel Core i7 ",16 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB SSD39.62 ,4.1,"₹2,14,790", 15.6 
+ALIENWARE,ALIENWARE Core i7 10th Gen -,"NVIDIA GeForce GTX 1660 Ti15.6 inch Full HD LED Backlit Anti-glare IPS Display, 300 Hz, 300 NitsAlienware Cryo-tech thermal technology to keep the system cool and running at highest performanceTobii-eye tracking to track head pose, presence, fine gaze and eye positionIn-built Alienware Command center software with enhanced control over system settingsIntel Core i7 ",16 GB DDR4 ,10th Gen,64 bit Windows 10 ,512 GB SSD39.62 ,4.9,"₹1,99,990", 15.6 
+DELL,DELL Vostro Ryzen 5 Hexa Core,AMD Ryzen 5 Hexa Core ,8 GB DDR4 ,,64 bit Windows 11 ,512 GB SSD35.56 ,4.8,"₹52,414", 14  
+ASUS,ASUS ROG Zephyrus M16 (2022) with,Intel Core i7 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,1 TB SSD40.64 ,5.0,"₹1,79,990", 16  
+ASUS,ASUS Chromebook Celeron Dual Core -,Intel Celeron Dual Core ,4 GB LPDDR4 ,,Chrome ,35.56 ,4.1,"₹25,990", 14 
+DELL,DELL Inspiron Core i5 12th Gen,Intel Core i5 ,16 GB DDR4 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,3.7,"₹80,615", 14 
+ASUS,ASUS ROG Zephyrus G15 (2022) with,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD39.62 ,4.4,"₹1,55,990", 15.6 
+Infinix,Infinix X1 Slim Series Core i7,Intel Core i7 ,16 GB LPDDR4X ,10th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,3.6,"₹49,990", 14  
+Lenovo,Lenovo Legion 5 Pro Core i7,Intel Core i7 ,16 GB DDR4 ,11th Gen,64 bit Windows 11 ,1 TB SSD40.64 ,4.6,"₹1,57,990", 16 
+ASUS,ASUS Core i5 12th Gen -,Intel Core i5 ,16 GB DDR5 ,12th Gen,Windows 11 ,512 GB SSD39.62 ,3.7,"₹92,990", 15.6 
+ASUS,ASUS ROG Flow X16 (2022) with,AMD Ryzen 7 Octa Core ,16 GB DDR5 ,,64 bit Windows 11 ,1 TB SSD40.64 ,4.3,"₹1,71,990", 16  Touchscreen 
+ASUS,ASUS ROG Flow X13 (2022) Ryzen,AMD Ryzen 9 Octa Core ,16 GB LPDDR5 ,,Windows 11 ,1 TB SSD34.04 ,4.5,"₹1,51,990", 13.4  Touchscreen 
+ASUS,ASUS ExpertBook B9 Core i7 10th,Intel Core i7 ,16 GB LPDDR3 ,10th Gen,64 bit Windows 10 ,2 TB SSD35.56 ,4.6,"₹2,33,990", 14 
+DELL,DELL Core i5 12th Gen -,Intel Core i5 ,16 GB DDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD33.78 ,4.0,"₹76,590", 13.3  
+HP,HP Pavilion Ryzen 7 Octa Core,AMD Ryzen 7 Octa Core ,16 GB DDR4 ,,64 bit Windows 10 ,512 GB SSD39.62 ,4.6,"₹90,000", 15.6 
+ASUS,ASUS Chromebook Flip Touch Celeron Dual,Intel Celeron Dual Core ,4 GB LPDDR4 ,,Chrome ,29.46 ,4.0,"₹23,490", 11.6 
+ASUS,ASUS Zenbook Flip 14 OLED (2022),Intel Core i7 ,16 GB LPDDR5 ,12th Gen,64 bit Windows 11 ,512 GB SSD35.56 ,3.0,"₹1,25,990", 14 
+Lenovo,Lenovo Ideapad Slim 3i Core i5,Intel Core i5 ,8 GB DDR4 ,10th Gen,64 bit Windows 10 ,1 TB HDD|256 GB SSD39.62 ,4.2,"₹50,990", 15.6 
